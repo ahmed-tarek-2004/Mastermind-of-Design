@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1702199732 source:e:\codeblocks codes\mastern_of_design\main.cpp
+	"Factory.h"
+	"Stack.h"
+	<string>
+	<iostream>
+	<string>
+	<iomanip>
+
+1702202775 e:\codeblocks codes\mastern_of_design\stack.h
+	<iostream>
+	<stdexcept>
+	"snode.h"
+	<string>
+
+1702194751 e:\codeblocks codes\mastern_of_design\snode.h
+	<string>
+	<iostream>
+
+1702207177 e:\codeblocks codes\mastern_of_design\queues.h
+	"subll.h"
+	"node.h"
+	<string>
+	<iostream>
+
+1702206111 e:\codeblocks codes\mastern_of_design\subll.h
+	"D_array.h"
+	"node.h"
+	"Stack.h"
+	<iostream>
+
+1702207177 e:\codeblocks codes\mastern_of_design\d_array.h
+	<iostream>
+	<algorithm>
+
+1702204794 e:\codeblocks codes\mastern_of_design\node.h
+	"D_array.h"
+	<iostream>
+
+1702207177 e:\codeblocks codes\mastern_of_design\factory.h
+	"Queues.h"
+	<string>
+
